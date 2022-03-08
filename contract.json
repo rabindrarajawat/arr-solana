@@ -1,7 +1,7 @@
 {
   "name": "Rob Testing 2-9-22",
   "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
-  "image": "https://raw.githubusercontent.com/rabindrarajawat/NFT_ERC721/main/app/src/assets/images/logo.png?token=GHSAT0AAAAAABSHTWJWEJZQLZWPSKH7JLSWYRHW7UA",
+  "image": "https://raw.githubusercontent.com/rabindrarajawat/arr-solana/main/logo.png",
   "external_link": "https://www.google.com/",
   "seller_fee_basis_points": 200,
   "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
