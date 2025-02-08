@@ -2,7 +2,7 @@
   "name": "Rob NFT",
   "symbol": "ROB",
   "description": "Just for Rob",
-  "image": "https://github.com/rabindrarajawat/arr-solana/blob/main/RAUDCoin.png",
+  "image": "https://raw.githubusercontent.com/rabindrarajawat/arr-solana/refs/heads/main/RAUDCoin.png",
   "attributes": [
     {
       "trait_type": "Background",
