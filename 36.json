@@ -1,0 +1,12 @@
+{
+  "name": "Rob NFT 36",
+  "symbol": "ROB",
+  "description": "Just for Rob 36",
+  "image": "https://raw.githubusercontent.com/rabindrarajawat/arr-solana/refs/heads/main/36.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}
