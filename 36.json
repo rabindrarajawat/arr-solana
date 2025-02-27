@@ -8,5 +8,12 @@
       "trait_type": "Background",
       "value": "Blue"
     }
+  ],
+  "creators":[
+    {
+      "address":"cPwJ4B74yXRnjHJ1oRmvVfxKz9LD1RXmunkuydkbPHs",
+      "verified":1,
+      "share":100
+    }
   ]
 }
